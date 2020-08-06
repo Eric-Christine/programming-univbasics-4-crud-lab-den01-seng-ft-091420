@@ -37,7 +37,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  new_array = [1, 2, 3]
+  new_array = [1, 2, 3, 4, 5]
   index_number = 4
   return new_array[new_array, 4, "totally"]
 end
