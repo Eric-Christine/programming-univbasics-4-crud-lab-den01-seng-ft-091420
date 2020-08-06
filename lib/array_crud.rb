@@ -38,5 +38,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   new_array = [1, 2, 3]
-  return new_array[2]
+  index_number = 4
+  return new_array[]
 end
