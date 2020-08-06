@@ -38,5 +38,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   new_array = [1, 2, 3, 4, 5]
-  return new_array[ 4, "totally"]
+  new_array[ 4, "totally"]
 end
